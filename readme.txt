@@ -1,2 +1,3 @@
 HELLO git this is stay world prefermer steam.okokok
-hhhh
+Git is free software GPL.
+
