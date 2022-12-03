@@ -4,3 +4,4 @@ Git has a mutable idenx
 git hello
 git 123456
 add branch info
+Creationg a new branch is quick AND simple.
