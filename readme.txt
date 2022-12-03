@@ -3,3 +3,4 @@ Git is free software GPL.
 Git has a mutable idenx
 git hello
 git 123456
+add branch info
